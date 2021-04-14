@@ -1,0 +1,75 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "Deeksha Sharma Portfolio"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Portfolio"
+url = "#portfolio"
+weight = 3
+[[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About"
+url = "#about"
+weight = 1
+[[menu.sitemap]]
+name = "Portfolio"
+url = "#portfolio"
+weight = 2
+[[menu.sitemap]]
+name = "Resume"
+url = "#resume"
+weight = 3
+[[menu.sitemap]]
+name = "Contact"
+url = "contact"
+weight = 4
+
+[params]
+contactLink = "contact"
+copyright = "All right reserved copyright © Portio 2020"
+footerLogo = "images/contact/widget-logo.png"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "Seattle, WA"
+email = "deeksha345@gmail.com"
+phone = "+(1) 425 314 5264"
+
+[params.map]
+APIkey = "AIzaSyBOZ2ohUg4QJ7E9eiEJTunhne8xPVb2dcQ"
+latitude = "47.6062"
+longitude = "122.3321"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/deeksha-sharma-342616133/"
+weight = 2
+[[params.social]]
+icon = "fa-github-square"
+url = "https://github.com/deeksha345"
+weight = 3
+[[params.social]]
+icon = "fa-steam-square"
+url = "https://store.steampowered.com/app/559250/Ghostlight_Manor/"
+weight = 4

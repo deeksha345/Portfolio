@@ -1,0 +1,17 @@
+---
+enable: true
+title: >
+  ## About me
+
+  I enjoy team diversity and having a safe space at work where I can fully collaborate, and innovate with my peers.
+content: >
+  ### Summary
+
+  I am a developer currently looking for a full stack or back end development role. 
+  My CV helps outline the many skills I have gained working in a fast-paced agile environment.
+  This portfolio showcases all my personal projects that helped enhance my full stack development 
+  capabilities.
+button1Name: Contact me
+button2Name: Download CV
+button1Target: contact
+image: images/about/pinkright.jpg

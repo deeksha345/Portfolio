@@ -1,0 +1,39 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+
+  This section outlines my education history and also gives a brief summary of my past experience.  
+
+tab1Name: Education
+tab2Name: Experience
+tab1Target: education
+tab2Target: experience
+
+experience:
+  - content: >
+      #### Software Engineer, T-Mobile 
+
+      Full stack developer for automation platforms used to make configuration changes to T-Mobile nationwide network using technologies like Django, Docker, MEAN stack.
+    time: June 2019 - Present
+  - content: >
+      #### Front-end Developer, University of Washington - Bothell 
+
+      Created and stylized the front-end for Senspert using a modern Javascript framework Vue JS.
+    time: December 2018 - June 2019
+  - content: >
+      #### Game Developer, Digital Future Lab
+
+      Found a passion for game development while working at the DFL and I have kept up with it on my spare time.
+    time: January 2018 - December 2018
+
+education:
+  - content: >
+      #### Bachelors of Science, University of Washington - Bothell
+
+      Earned a degree in Computer Science and Software Engineering from UW.
+
+
+      Relevant coursework includes - C++ Data Structures and Algorithms I and II, Operating Systems, Relational Database Design
+    time: September 2015 - June 2019
