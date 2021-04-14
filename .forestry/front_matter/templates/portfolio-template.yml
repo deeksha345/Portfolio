@@ -15,11 +15,14 @@ fields:
   name: type
   label: type
 - type: text
-  name: service
-  label: service
+  name: languages
+  label: languages
 - type: text
-  name: client
-  label: client
+  name: status
+  label: status
+- type: text
+  name: technologies
+  label: technologies
 - type: textarea
   name: shortDescription
   label: shortDescription
