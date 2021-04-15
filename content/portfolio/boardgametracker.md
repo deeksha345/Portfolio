@@ -3,7 +3,7 @@ title: Board Game Tracker
 technologies: React Native, Backendless
 languages: JS, Java
 status: In Progress
-thumbnail: images/portfolio/portfolio-4.png
+thumbnail: images/portfolio/app2.jpg
 shortDescription: This app lets you keep track of all the board games you have tried and lets you favorite one's you love. 
 
 
