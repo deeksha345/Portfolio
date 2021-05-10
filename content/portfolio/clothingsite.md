@@ -8,9 +8,14 @@ shortDescription: I am building an online store for my friend to sell her retail
 
 
 ---
-I am working on this website for my friend who is an amazing artist and want to start her own clothing line. 
+Problem statement: 
+Create a website for my friend to showcase her portfolio of art, market herself as a creator, and build connections with her followes.
 
-I am using React because this framework offers lots of useful functionalities like lazy loading, redux and is generally very modular and easy to use. I am using Firebase to store information about the items being sold on the site. This database service from Google offers robust functionality and is free for the amount of storage needed for this website. 
+Outcome: 
+Deploy end-to-end website using AWS services using EC2 for hosting, RDS for database storage and management, S3 for object storage, etc. 
+Integrate multiple payment systems to allow users the option to pay through visa, paypal, bitcoin, and doge. 
+Implement profile creation so users can contact my friend, and subscribe to get updates about new products and events. 
 
+Design:
 
-I plan on implementing Doge and Bitcoin as acceptable payments methods. This is a feature I am very excited to implement as it will be a great learning experience and will show my support for the crypto community. 
+In progress:

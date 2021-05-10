@@ -7,7 +7,20 @@ thumbnail: images/portfolio/ghostlight.PNG
 shortDescription: I worked on this project during my internship at the Digital Future Lab in college
 
 ---
-Link to the game: https://store.steampowered.com/app/559250/Ghostlight_Manor/
+Problem statement: 
+Create a decision tree AI in Ghostlight Manor for multiplayer mode and create multiple difficulty modes.
+
+Outcome: 
+Created an AI allowing players to play against a bot in multiplayer mode.
+Implement 3 different difficulty modes - easy, medium, and hard - allowing players of all skill levels to play in multiplayer mode.
+
+Link to the game hosted on Steam: 
+https://store.steampowered.com/app/559250/Ghostlight_Manor/
+
+Design:
+
+In progress:
+
 
 
 Description of game from steam: "Ghostlight Manor is a strategic puzzler with 60 hauntingly challenging levels. Encounter a cast of beloved classic monsters while locating the source of the monster invasion before it’s too late! In multiplayer test your skills against our brand new A.I."
